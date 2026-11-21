@@ -2,4 +2,4 @@ ini adalah file testing git.
 
 ini adalah file testing git.
 
-ini adalah konten untuk branch dev
+ini adalah konten untuk branch dev untuk demo konflik
